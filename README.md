@@ -8,17 +8,17 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 
 | Language | Files | Percentage |
 |---|---|---|
-| Rust | 34 | 60.7% |
-| C++ | 22 | 39.3% |
+| Rust | 34 | 59.6% |
+| C++ | 23 | 40.4% |
 
 ## Progress tracker
 
-**51 / 250 solved (20.4%)**
+**52 / 250 solved (20.8%)**
 
-![Progress](https://progress-bar.xyz/51/?scale=250&suffix=%20/%20250&width=300&progress_color=ffffff)
+![Progress](https://progress-bar.xyz/52/?scale=250&suffix=%20/%20250&width=300&progress_color=ffffff)
 
 **Easy**  
-![Easy](https://progress-bar.xyz/42/?scale=100&suffix=%25%20(25/60)&width=300&progress_color=22c55e)
+![Easy](https://progress-bar.xyz/43/?scale=100&suffix=%25%20(26/60)&width=300&progress_color=22c55e)
 
 **Medium**  
 ![Medium](https://progress-bar.xyz/17/?scale=100&suffix=%25%20(26/155)&width=300&progress_color=eab308)
@@ -34,7 +34,7 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 | Stack | 1 | 15 | 6.7% |
 | Binary Search | 5 | 14 | 35.7% |
 | Linked List | 5 | 14 | 35.7% |
-| Trees | 7 | 23 | 30.4% |
+| Trees | 8 | 23 | 34.8% |
 | Tries | 1 | 4 | 25.0% |
 | Heap / Priority Queue | 0 | 12 | 0.0% |
 | Backtracking | 6 | 16 | 37.5% |
@@ -175,7 +175,7 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 </details>
 
 <details>
-<summary><strong>Trees</strong> (7/23)</summary>
+<summary><strong>Trees</strong> (8/23)</summary>
 
 - [x] [Invert Binary Tree](<Data Structures & Algorithms/invert-a-binary-tree>)
 - [x] [Maximum Depth of Binary Tree](<Data Structures & Algorithms/depth-of-binary-tree>)
@@ -193,7 +193,7 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 - [ ] Binary Tree Maximum Path Sum
 - [ ] Serialize and Deserialize Binary Tree
 - [x] [Binary Tree Inorder Traversal](<Data Structures & Algorithms/binary-tree-inorder-traversal>)
-- [ ] Binary Tree Preorder Traversal
+- [x] [Binary Tree Preorder Traversal](<Data Structures & Algorithms/binary-tree-preorder-traversal>)
 - [ ] Binary Tree Postorder Traversal
 - [ ] Insert into a Binary Search Tree
 - [ ] Delete Node in a BST
