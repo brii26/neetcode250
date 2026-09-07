@@ -8,20 +8,20 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 
 | Language | Files | Percentage |
 |---|---|---|
-| Rust | 34 | 57.6% |
-| C++ | 25 | 42.4% |
+| Rust | 34 | 56.7% |
+| C++ | 26 | 43.3% |
 
 ## Progress tracker
 
-**53 / 250 solved (21.2%)**
+**54 / 250 solved (21.6%)**
 
-![Progress](https://progress-bar.xyz/53/?scale=250&suffix=%20/%20250&width=300&progress_color=ffffff)
+![Progress](https://progress-bar.xyz/54/?scale=250&suffix=%20/%20250&width=300&progress_color=ffffff)
 
 **Easy**  
 ![Easy](https://progress-bar.xyz/45/?scale=100&suffix=%25%20(27/60)&width=300&progress_color=22c55e)
 
 **Medium**  
-![Medium](https://progress-bar.xyz/17/?scale=100&suffix=%25%20(26/155)&width=300&progress_color=eab308)
+![Medium](https://progress-bar.xyz/17/?scale=100&suffix=%25%20(27/155)&width=300&progress_color=eab308)
 
 **Hard**  
 ![Hard](https://progress-bar.xyz/0/?scale=100&suffix=%25%20(0/35)&width=300&progress_color=ef4444)
@@ -33,7 +33,7 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 | Sliding Window | 1 | 9 | 11.1% |
 | Stack | 1 | 15 | 6.7% |
 | Binary Search | 5 | 14 | 35.7% |
-| Linked List | 5 | 14 | 35.7% |
+| Linked List | 6 | 14 | 42.9% |
 | Trees | 9 | 23 | 39.1% |
 | Tries | 1 | 4 | 25.0% |
 | Heap / Priority Queue | 0 | 12 | 0.0% |
@@ -155,13 +155,13 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 </details>
 
 <details>
-<summary><strong>Linked List</strong> (5/14)</summary>
+<summary><strong>Linked List</strong> (6/14)</summary>
 
 - [ ] Reverse Linked List
 - [x] [Merge Two Sorted Lists](<Data Structures & Algorithms/merge-two-sorted-linked-lists>)
 - [ ] Reorder List
 - [x] [Remove Nth Node From End of List](<Data Structures & Algorithms/remove-node-from-end-of-linked-list>)
-- [ ] Copy List with Random Pointer
+- [x] [Copy List with Random Pointer](<Data Structures & Algorithms/copy-linked-list-with-random-pointer>)
 - [x] [Add Two Numbers](<Data Structures & Algorithms/add-two-numbers>)
 - [x] [Linked List Cycle](<Data Structures & Algorithms/linked-list-cycle-detection>)
 - [x] [Find the Duplicate Number](<Data Structures & Algorithms/find-duplicate-integer>)
