@@ -8,8 +8,8 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 
 | Language | Files | Percentage |
 |---|---|---|
-| Rust | 34 | 50.7% |
-| C++ | 33 | 49.3% |
+| Rust | 34 | 50.0% |
+| C++ | 34 | 50.0% |
 
 ## Progress tracker
 
@@ -413,6 +413,7 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 <summary><strong>Other / unmapped</strong> (not in the NeetCode 250 catalog)</summary>
 
 - [level-order-traversal-of-binary-tree](<Data Structures & Algorithms/level-order-traversal-of-binary-tree>)
+- [valid-binary-search-tree](<Data Structures & Algorithms/valid-binary-search-tree>)
 
 </details>
 
