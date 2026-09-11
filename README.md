@@ -8,17 +8,17 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 
 | Language | Files | Percentage |
 |---|---|---|
-| C++ | 36 | 51.4% |
-| Rust | 34 | 48.6% |
+| C++ | 37 | 52.1% |
+| Rust | 34 | 47.9% |
 
 ## Progress tracker
 
-**62 / 250 solved (24.8%)**
+**63 / 250 solved (25.2%)**
 
-![Progress](https://progress-bar.xyz/62/?scale=250&suffix=%20/%20250&width=300&progress_color=ffffff)
+![Progress](https://progress-bar.xyz/63/?scale=250&suffix=%20/%20250&width=300&progress_color=ffffff)
 
 **Easy**  
-![Easy](https://progress-bar.xyz/53/?scale=100&suffix=%25%20(32/60)&width=300&progress_color=22c55e)
+![Easy](https://progress-bar.xyz/55/?scale=100&suffix=%25%20(33/60)&width=300&progress_color=22c55e)
 
 **Medium**  
 ![Medium](https://progress-bar.xyz/19/?scale=100&suffix=%25%20(30/155)&width=300&progress_color=eab308)
@@ -42,7 +42,7 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 | Advanced Graphs | 0 | 10 | 0.0% |
 | 1-D Dynamic Programming | 3 | 17 | 17.6% |
 | 2-D Dynamic Programming | 1 | 16 | 6.2% |
-| Greedy | 0 | 14 | 0.0% |
+| Greedy | 1 | 14 | 7.1% |
 | Intervals | 1 | 7 | 14.3% |
 | Math & Geometry | 1 | 13 | 7.7% |
 | Bit Manipulation | 3 | 10 | 30.0% |
@@ -342,7 +342,7 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 </details>
 
 <details>
-<summary><strong>Greedy</strong> (0/14)</summary>
+<summary><strong>Greedy</strong> (1/14)</summary>
 
 - [ ] Maximum Subarray
 - [ ] Jump Game
@@ -352,7 +352,7 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 - [ ] Merge Triplets to Form Target Triplet
 - [ ] Partition Labels
 - [ ] Valid Parenthesis String
-- [ ] Lemonade Change
+- [x] [Lemonade Change](<Data Structures & Algorithms/lemonade-change>)
 - [ ] Maximum Sum Circular Subarray
 - [ ] Longest Turbulent Subarray
 - [ ] Jump Game VII
