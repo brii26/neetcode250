@@ -8,20 +8,20 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 
 | Language | Files | Percentage |
 |---|---|---|
-| C++ | 35 | 50.7% |
-| Rust | 34 | 49.3% |
+| C++ | 36 | 51.4% |
+| Rust | 34 | 48.6% |
 
 ## Progress tracker
 
-**61 / 250 solved (24.4%)**
+**62 / 250 solved (24.8%)**
 
-![Progress](https://progress-bar.xyz/61/?scale=250&suffix=%20/%20250&width=300&progress_color=ffffff)
+![Progress](https://progress-bar.xyz/62/?scale=250&suffix=%20/%20250&width=300&progress_color=ffffff)
 
 **Easy**  
 ![Easy](https://progress-bar.xyz/53/?scale=100&suffix=%25%20(32/60)&width=300&progress_color=22c55e)
 
 **Medium**  
-![Medium](https://progress-bar.xyz/19/?scale=100&suffix=%25%20(29/155)&width=300&progress_color=eab308)
+![Medium](https://progress-bar.xyz/19/?scale=100&suffix=%25%20(30/155)&width=300&progress_color=eab308)
 
 **Hard**  
 ![Hard](https://progress-bar.xyz/0/?scale=100&suffix=%25%20(0/35)&width=300&progress_color=ef4444)
@@ -37,7 +37,7 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 | Trees | 10 | 23 | 43.5% |
 | Tries | 1 | 4 | 25.0% |
 | Heap / Priority Queue | 0 | 12 | 0.0% |
-| Backtracking | 7 | 16 | 43.8% |
+| Backtracking | 8 | 16 | 50.0% |
 | Graphs | 3 | 21 | 14.3% |
 | Advanced Graphs | 0 | 10 | 0.0% |
 | 1-D Dynamic Programming | 3 | 17 | 17.6% |
@@ -232,7 +232,7 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 </details>
 
 <details>
-<summary><strong>Backtracking</strong> (7/16)</summary>
+<summary><strong>Backtracking</strong> (8/16)</summary>
 
 - [x] [Subsets](<Data Structures & Algorithms/subsets>)
 - [x] [Combination Sum](<Data Structures & Algorithms/combination-target-sum>)
@@ -245,7 +245,7 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 - [ ] N-Queens
 - [x] [Sum of All Subsets XOR Total](<Data Structures & Algorithms/sum-of-all-subset-xor-totals>)
 - [x] [Combinations](<Data Structures & Algorithms/combinations>)
-- [ ] Permutations II
+- [x] [Permutations II](<Data Structures & Algorithms/permutations-ii>)
 - [ ] Matchsticks to Square
 - [ ] Partition to K Equal Sum Subsets
 - [ ] N Queens II
