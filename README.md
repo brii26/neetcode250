@@ -8,17 +8,17 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 
 | Language | Files | Percentage |
 |---|---|---|
-| Rust | 34 | 52.3% |
-| C++ | 31 | 47.7% |
+| Rust | 34 | 51.5% |
+| C++ | 32 | 48.5% |
 
 ## Progress tracker
 
-**58 / 250 solved (23.2%)**
+**59 / 250 solved (23.6%)**
 
-![Progress](https://progress-bar.xyz/58/?scale=250&suffix=%20/%20250&width=300&progress_color=ffffff)
+![Progress](https://progress-bar.xyz/59/?scale=250&suffix=%20/%20250&width=300&progress_color=ffffff)
 
 **Easy**  
-![Easy](https://progress-bar.xyz/52/?scale=100&suffix=%25%20(31/60)&width=300&progress_color=22c55e)
+![Easy](https://progress-bar.xyz/53/?scale=100&suffix=%25%20(32/60)&width=300&progress_color=22c55e)
 
 **Medium**  
 ![Medium](https://progress-bar.xyz/17/?scale=100&suffix=%25%20(27/155)&width=300&progress_color=eab308)
@@ -29,7 +29,7 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 | Pattern | Solved | Total | Percentage |
 |---|---|---|---|
 | Arrays & Hashing | 11 | 22 | 50.0% |
-| Two Pointers | 6 | 13 | 46.2% |
+| Two Pointers | 7 | 13 | 53.8% |
 | Sliding Window | 1 | 9 | 11.1% |
 | Stack | 1 | 15 | 6.7% |
 | Binary Search | 5 | 14 | 35.7% |
@@ -80,7 +80,7 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 </details>
 
 <details>
-<summary><strong>Two Pointers</strong> (6/13)</summary>
+<summary><strong>Two Pointers</strong> (7/13)</summary>
 
 - [x] [Valid Palindrome](<Data Structures & Algorithms/is-palindrome>)
 - [x] [Two Sum II (Sorted Array)](<Data Structures & Algorithms/two-integer-sum-ii>)
@@ -89,7 +89,7 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 - [ ] Trapping Rain Water
 - [x] [Reverse String](<Data Structures & Algorithms/reverse-string>)
 - [x] [Valid Palindrome II](<Data Structures & Algorithms/valid-palindrome-ii>)
-- [ ] Merge Strings Alternately
+- [x] [Merge Strings Alternately](<Data Structures & Algorithms/merge-strings-alternately>)
 - [ ] Merge Sorted Array
 - [ ] Remove Duplicates From Sorted Array
 - [ ] 4Sum
