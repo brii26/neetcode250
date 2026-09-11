@@ -8,17 +8,17 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 
 | Language | Files | Percentage |
 |---|---|---|
-| Rust | 34 | 53.1% |
-| C++ | 30 | 46.9% |
+| Rust | 34 | 52.3% |
+| C++ | 31 | 47.7% |
 
 ## Progress tracker
 
-**57 / 250 solved (22.8%)**
+**58 / 250 solved (23.2%)**
 
-![Progress](https://progress-bar.xyz/57/?scale=250&suffix=%20/%20250&width=300&progress_color=ffffff)
+![Progress](https://progress-bar.xyz/58/?scale=250&suffix=%20/%20250&width=300&progress_color=ffffff)
 
 **Easy**  
-![Easy](https://progress-bar.xyz/50/?scale=100&suffix=%25%20(30/60)&width=300&progress_color=22c55e)
+![Easy](https://progress-bar.xyz/52/?scale=100&suffix=%25%20(31/60)&width=300&progress_color=22c55e)
 
 **Medium**  
 ![Medium](https://progress-bar.xyz/17/?scale=100&suffix=%25%20(27/155)&width=300&progress_color=eab308)
@@ -29,7 +29,7 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 | Pattern | Solved | Total | Percentage |
 |---|---|---|---|
 | Arrays & Hashing | 11 | 22 | 50.0% |
-| Two Pointers | 5 | 13 | 38.5% |
+| Two Pointers | 6 | 13 | 46.2% |
 | Sliding Window | 1 | 9 | 11.1% |
 | Stack | 1 | 15 | 6.7% |
 | Binary Search | 5 | 14 | 35.7% |
@@ -80,7 +80,7 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 </details>
 
 <details>
-<summary><strong>Two Pointers</strong> (5/13)</summary>
+<summary><strong>Two Pointers</strong> (6/13)</summary>
 
 - [x] [Valid Palindrome](<Data Structures & Algorithms/is-palindrome>)
 - [x] [Two Sum II (Sorted Array)](<Data Structures & Algorithms/two-integer-sum-ii>)
@@ -88,7 +88,7 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 - [x] [Container With Most Water](<Data Structures & Algorithms/max-water-container>)
 - [ ] Trapping Rain Water
 - [x] [Reverse String](<Data Structures & Algorithms/reverse-string>)
-- [ ] Valid Palindrome II
+- [x] [Valid Palindrome II](<Data Structures & Algorithms/valid-palindrome-ii>)
 - [ ] Merge Strings Alternately
 - [ ] Merge Sorted Array
 - [ ] Remove Duplicates From Sorted Array
