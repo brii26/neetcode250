@@ -8,20 +8,20 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 
 | Language | Files | Percentage |
 |---|---|---|
-| Rust | 34 | 51.5% |
-| C++ | 32 | 48.5% |
+| Rust | 34 | 50.7% |
+| C++ | 33 | 49.3% |
 
 ## Progress tracker
 
-**59 / 250 solved (23.6%)**
+**60 / 250 solved (24.0%)**
 
-![Progress](https://progress-bar.xyz/59/?scale=250&suffix=%20/%20250&width=300&progress_color=ffffff)
+![Progress](https://progress-bar.xyz/60/?scale=250&suffix=%20/%20250&width=300&progress_color=ffffff)
 
 **Easy**  
 ![Easy](https://progress-bar.xyz/53/?scale=100&suffix=%25%20(32/60)&width=300&progress_color=22c55e)
 
 **Medium**  
-![Medium](https://progress-bar.xyz/17/?scale=100&suffix=%25%20(27/155)&width=300&progress_color=eab308)
+![Medium](https://progress-bar.xyz/18/?scale=100&suffix=%25%20(28/155)&width=300&progress_color=eab308)
 
 **Hard**  
 ![Hard](https://progress-bar.xyz/0/?scale=100&suffix=%25%20(0/35)&width=300&progress_color=ef4444)
@@ -34,7 +34,7 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 | Stack | 1 | 15 | 6.7% |
 | Binary Search | 5 | 14 | 35.7% |
 | Linked List | 6 | 14 | 42.9% |
-| Trees | 9 | 23 | 39.1% |
+| Trees | 10 | 23 | 43.5% |
 | Tries | 1 | 4 | 25.0% |
 | Heap / Priority Queue | 0 | 12 | 0.0% |
 | Backtracking | 6 | 16 | 37.5% |
@@ -175,7 +175,7 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 </details>
 
 <details>
-<summary><strong>Trees</strong> (9/23)</summary>
+<summary><strong>Trees</strong> (10/23)</summary>
 
 - [x] [Invert Binary Tree](<Data Structures & Algorithms/invert-a-binary-tree>)
 - [x] [Maximum Depth of Binary Tree](<Data Structures & Algorithms/depth-of-binary-tree>)
@@ -195,7 +195,7 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 - [x] [Binary Tree Inorder Traversal](<Data Structures & Algorithms/binary-tree-inorder-traversal>)
 - [x] [Binary Tree Preorder Traversal](<Data Structures & Algorithms/binary-tree-preorder-traversal>)
 - [x] [Binary Tree Postorder Traversal](<Data Structures & Algorithms/binary-tree-postorder-traversal>)
-- [ ] Insert into a Binary Search Tree
+- [x] [Insert into a Binary Search Tree](<Data Structures & Algorithms/insert-into-a-binary-search-tree>)
 - [ ] Delete Node in a BST
 - [ ] Construct Quad Tree
 - [ ] House Robber III
