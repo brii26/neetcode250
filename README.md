@@ -8,17 +8,17 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 
 | Language | Files | Percentage |
 |---|---|---|
-| Rust | 34 | 55.7% |
-| C++ | 27 | 44.3% |
+| Rust | 34 | 54.8% |
+| C++ | 28 | 45.2% |
 
 ## Progress tracker
 
-**55 / 250 solved (22.0%)**
+**56 / 250 solved (22.4%)**
 
-![Progress](https://progress-bar.xyz/55/?scale=250&suffix=%20/%20250&width=300&progress_color=ffffff)
+![Progress](https://progress-bar.xyz/56/?scale=250&suffix=%20/%20250&width=300&progress_color=ffffff)
 
 **Easy**  
-![Easy](https://progress-bar.xyz/47/?scale=100&suffix=%25%20(28/60)&width=300&progress_color=22c55e)
+![Easy](https://progress-bar.xyz/48/?scale=100&suffix=%25%20(29/60)&width=300&progress_color=22c55e)
 
 **Medium**  
 ![Medium](https://progress-bar.xyz/17/?scale=100&suffix=%25%20(27/155)&width=300&progress_color=eab308)
@@ -28,7 +28,7 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 
 | Pattern | Solved | Total | Percentage |
 |---|---|---|---|
-| Arrays & Hashing | 10 | 22 | 45.5% |
+| Arrays & Hashing | 11 | 22 | 50.0% |
 | Two Pointers | 4 | 13 | 30.8% |
 | Sliding Window | 1 | 9 | 11.1% |
 | Stack | 1 | 15 | 6.7% |
@@ -52,7 +52,7 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 ## Solutions by pattern
 
 <details>
-<summary><strong>Arrays & Hashing</strong> (10/22)</summary>
+<summary><strong>Arrays & Hashing</strong> (11/22)</summary>
 
 - [x] [Contains Duplicate](<Data Structures & Algorithms/duplicate-integer>)
 - [x] [Valid Anagram](<Data Structures & Algorithms/is-anagram>)
@@ -64,7 +64,7 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 - [x] [Valid Sudoku](<Data Structures & Algorithms/valid-sudoku>)
 - [x] [Longest Consecutive Sequence](<Data Structures & Algorithms/longest-consecutive-sequence>)
 - [x] [Concatenation of Array](<Data Structures & Algorithms/concatenation-of-array>)
-- [ ] Longest Common Prefix
+- [x] [Longest Common Prefix](<Data Structures & Algorithms/longest-common-prefix>)
 - [ ] Remove Element
 - [ ] Majority Element
 - [ ] Design HashSet
