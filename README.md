@@ -8,17 +8,17 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 
 | Language | Files | Percentage |
 |---|---|---|
-| Rust | 34 | 54.0% |
-| C++ | 29 | 46.0% |
+| Rust | 34 | 53.1% |
+| C++ | 30 | 46.9% |
 
 ## Progress tracker
 
-**56 / 250 solved (22.4%)**
+**57 / 250 solved (22.8%)**
 
-![Progress](https://progress-bar.xyz/56/?scale=250&suffix=%20/%20250&width=300&progress_color=ffffff)
+![Progress](https://progress-bar.xyz/57/?scale=250&suffix=%20/%20250&width=300&progress_color=ffffff)
 
 **Easy**  
-![Easy](https://progress-bar.xyz/48/?scale=100&suffix=%25%20(29/60)&width=300&progress_color=22c55e)
+![Easy](https://progress-bar.xyz/50/?scale=100&suffix=%25%20(30/60)&width=300&progress_color=22c55e)
 
 **Medium**  
 ![Medium](https://progress-bar.xyz/17/?scale=100&suffix=%25%20(27/155)&width=300&progress_color=eab308)
@@ -29,7 +29,7 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 | Pattern | Solved | Total | Percentage |
 |---|---|---|---|
 | Arrays & Hashing | 11 | 22 | 50.0% |
-| Two Pointers | 4 | 13 | 30.8% |
+| Two Pointers | 5 | 13 | 38.5% |
 | Sliding Window | 1 | 9 | 11.1% |
 | Stack | 1 | 15 | 6.7% |
 | Binary Search | 5 | 14 | 35.7% |
@@ -80,14 +80,14 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 </details>
 
 <details>
-<summary><strong>Two Pointers</strong> (4/13)</summary>
+<summary><strong>Two Pointers</strong> (5/13)</summary>
 
 - [x] [Valid Palindrome](<Data Structures & Algorithms/is-palindrome>)
 - [x] [Two Sum II (Sorted Array)](<Data Structures & Algorithms/two-integer-sum-ii>)
 - [x] [3Sum](<Data Structures & Algorithms/three-integer-sum>)
 - [x] [Container With Most Water](<Data Structures & Algorithms/max-water-container>)
 - [ ] Trapping Rain Water
-- [ ] Reverse String
+- [x] [Reverse String](<Data Structures & Algorithms/reverse-string>)
 - [ ] Valid Palindrome II
 - [ ] Merge Strings Alternately
 - [ ] Merge Sorted Array
