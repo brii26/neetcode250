@@ -8,8 +8,8 @@ This is my NeetCode 250 tracker, made for fun to keep myself accountable while g
 
 | Language | Files | Percentage |
 |---|---|---|
-| C++ | 38 | 52.8% |
-| Rust | 34 | 47.2% |
+| C++ | 39 | 53.4% |
+| Rust | 34 | 46.6% |
 
 ## Progress tracker
 
